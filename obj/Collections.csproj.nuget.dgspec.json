@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ali\\Desktop\\new course\\Collections\\Collections.csproj": {}
+    "C:\\Users\\Ali\\Desktop\\new course\\Collections\\Collections.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ali\\Desktop\\new course\\Collections\\Collections.csproj": {
+    "C:\\Users\\Ali\\Desktop\\new course\\Collections\\Collections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ali\\Desktop\\new course\\Collections\\Collections.csproj",
+        "projectUniqueName": "C:\\Users\\Ali\\Desktop\\new course\\Collections\\Collections.csproj",
         "projectName": "Collections",
-        "projectPath": "c:\\Users\\Ali\\Desktop\\new course\\Collections\\Collections.csproj",
+        "projectPath": "C:\\Users\\Ali\\Desktop\\new course\\Collections\\Collections.csproj",
         "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ali\\Desktop\\new course\\Collections\\obj\\",
+        "outputPath": "C:\\Users\\Ali\\Desktop\\new course\\Collections\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
